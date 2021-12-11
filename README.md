@@ -5,7 +5,7 @@ This simple PHP script helps to switch on / off plugs or lights via the Philips 
 ## What you need
 - AVM FRITZ!Box wifi router, e.g. 7590
 - Philips Hue bridge
-- at least one light or plug
+- At least one Philips Hue light or plug
 
 ## Installation
 
